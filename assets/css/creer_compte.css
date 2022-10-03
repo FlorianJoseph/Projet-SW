@@ -1,0 +1,82 @@
+#background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  
+  .logo {
+    width: 6vw;
+    height: 6vh;
+    margin-bottom: 0;
+  }
+  
+  .cat-nav:hover {
+    background-color: rgb(195, 194, 194);
+    border-radius: 5px;
+    box-shadow: inset 0.1em 0.1em 0.2em 0.05em rgba(0, 0, 0, 0.2);
+  }
+  
+  .bg-navbar {
+    background: linear-gradient(to right, #f0f1eb, #b6bcbc);
+  }
+  
+  .emplacement {
+    height: 60vh;
+    border: solid 1px rgb(126, 126, 126);
+    margin-top: 25vh;
+    margin-right: 20vh;
+    margin-left: 20vh;
+    background-color: rgba(182, 188, 188, 0.8);
+    padding: 4em;
+    border-radius: 5px;
+  }
+  
+  .btne {
+    justify-content: center;
+    border: solid 2px rgb(126, 126, 126);
+    background-color: rgb(195, 194, 194);
+    border-radius: 5px;
+    width: 10vh;
+    height: 4vh;
+  }
+  
+  .btne:hover {
+    color: aliceblue;
+    background-color: rgb(126, 126, 126);
+    box-shadow: inset 0.1em 0.1em 0.2em 0.05em rgba(0, 0, 0, 0.2);
+  }
+  
+  .btnr {
+    border: solid 2px rgb(126, 126, 126);
+    background-color: rgb(195, 194, 194);
+    border-radius: 5px;
+    width: 10vh;
+    height: 4vh;
+  }
+  
+  .btnr:hover {
+    color: aliceblue;
+    background-color: rgb(126, 126, 126);
+    box-shadow: inset 0.1em 0.1em 0.2em 0.05em rgba(0, 0, 0, 0.2);
+  }
+  
+  .cgu {
+    color: black;
+  }
+  
+  .cgu:hover {
+    color: rgb(86, 86, 86);
+    text-decoration: underline;
+  }
+  
+  .buttons {
+    display: flex;
+    justify-content: center;
+  }
+  

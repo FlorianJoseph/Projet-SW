@@ -1,0 +1,61 @@
+#background-video {
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+  }
+  
+  .logo {
+    width: 6vw;
+    height: 6vh;
+    margin-bottom: 0;
+  }
+  
+  .cat-nav:hover {
+    background-color: rgb(195, 194, 194);
+    border-radius: 5px;
+    box-shadow: inset 0.1em 0.1em 0.2em 0.05em rgba(0, 0, 0, 0.2);
+  }
+  
+  .bg-navbar {
+    background: linear-gradient(to right, #f0f1eb, #b6bcbc);
+  }
+  
+  .bi {
+    vertical-align: -0.125em;
+    fill: black;
+  }
+  
+  .footer-fini {
+    background-color: rgba(182, 188, 188, 0.5);
+    padding-left: 2vw;
+    padding-right: 2vw;
+  }
+  
+  .footer-fini h1,
+  .footer-fini h2 {
+    color: black;
+  }
+  
+  footer h1 {
+    font-size: 24px;
+  }
+  
+  footer h2 {
+    font-size: 16px;
+  }
+  
+  .footer-fini .container-fluid {
+    margin-top: -2.4vh;
+    margin-bottom: -3.5vh;
+  }
+  
+  .container-fluid {
+    padding-bottom: 0.5vh;
+  }
+  

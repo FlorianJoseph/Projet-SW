@@ -1,0 +1,28 @@
+.logo {
+    width: 6vw;
+    height: 6vh;
+    margin-bottom: 0;
+  }
+  
+  .cat-nav:hover {
+    background-color: rgb(195, 194, 194);
+    border-radius: 5px;
+    box-shadow: inset 0.1em 0.1em 0.2em 0.05em rgba(0, 0, 0, 0.2);
+  }
+  
+  .bg-navbar {
+    background: linear-gradient(to right, #f0f1eb, #b6bcbc);
+  }
+  
+  .main-presentation {
+    border: solid black 1px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    padding: 2vw;
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    text-align: center;
+    font-size: 30em;
+    font-weight: bold;
+  }
+  
